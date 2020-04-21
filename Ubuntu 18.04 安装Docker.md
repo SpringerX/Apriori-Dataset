@@ -20,7 +20,6 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 设置Docker稳定版仓库 
 
 ```bash
-#注意下面两行其实是一条命令
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 ```
 
@@ -44,7 +43,7 @@ sudo docker run hello-world
 
 出现如下信息，表示安装成功 
 
-![docker](https://github.com/SpringerX/Apriori-Dataset/blob/master/docker.jpg)
+![docker](https://upload-images.jianshu.io/upload_images/16551396-bf102de7e4e0b8aa.jpg)
 
 为了避免每次命令都输入sudo，可以设置用户权限，**注意执行后须注销重新登录**
 
