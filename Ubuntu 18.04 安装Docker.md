@@ -44,7 +44,7 @@ sudo docker run hello-world
 
 出现如下信息，表示安装成功 
 
-![docker](C:\Users\kaixu\Desktop\docker.jpg)
+![docker](https://github.com/SpringerX/Apriori-Dataset/blob/master/docker.jpg)
 
 为了避免每次命令都输入sudo，可以设置用户权限，**注意执行后须注销重新登录**
 
