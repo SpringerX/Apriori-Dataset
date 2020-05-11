@@ -1,6 +1,8 @@
 # Apriori
 
-Apriori-Dataset
+## Apriori-Dataset
+
+结课作业数据集 groceries.csv
 
 ## 《分布式配置参考教程》
 
