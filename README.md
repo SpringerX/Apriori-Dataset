@@ -10,6 +10,8 @@
 
 **注意：** 部分细节可能并不适用于Hadoop 3.1.3，主要在于某些xml配置文件的修改，例如但不限于yarn-site.xml，这里可以找对应版本的配置教程加以参考。另外，docker安装参照我提供的另外一个教程就可以，不建议参考这个教程中提供的方法。
 
+**注意：** 建议在Docker上进行Hadoop分布式配置的同学改用版本号为2.7.1的Hadoop（见群文件）
+
 ## Apriori算法实现参考
 
 [market-basket-analysis](https://github.com/SpringerX/market-basket-analysis)
@@ -28,6 +30,8 @@
 
 - 记录实验过程中的关键步骤，并撰写实验报告。
 
-- 祝大家实验顺利~
+## 基本完结
+
+- 祝大家实验&&考试顺利~
 
 - 考试周也要稳住鸭~
