@@ -4,7 +4,7 @@
 
 结课作业数据集 groceries.csv
 
-[分类、聚类weka示例数据集](https://github.com/SpringerX/Weka-Dataset)
+[分类、聚类weka示例数据集](https://github.com/SpringerX/Weka-Dataset)（此数据集跟结课作业无关）
 
 ## 《分布式配置参考教程》
 
