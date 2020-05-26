@@ -4,6 +4,8 @@
 
 结课作业数据集 groceries.csv
 
+[分类、聚类weka示例数据集](https://github.com/SpringerX/Weka-Dataset)
+
 ## 《分布式配置参考教程》
 
 新添加的《分布式配置参考教程》为大家在docker容器中进行Hadoop分布式配置提供参考，该教程可以为大家提供大体的配置思路。
