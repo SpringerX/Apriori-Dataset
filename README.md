@@ -28,7 +28,9 @@
 
 - 参考本项目内教程《Ubuntu 18.04 安装 Docker》，在Ubuntu系统内安装Docker；
 
-- 而后参考《分布式配置参考教程》中的章节3.3.5中的“3.在Docker上安装Ubuntu系统”及以后各小节内容（P13-P20)，在Docker容器中进行Hadoop分布式配置；
+- 而后参考《分布式配置参考教程》中的章节3.3.5中的“3.在Docker上安装Ubuntu系统”及以后各小节内容（P13-P20)，在Docker容器中进行Hadoop分布式配置，其中JAVA建议按照之前的安装方式手动安装，只需要把jdk安装包放在创建docker容器时创建的那个build目录下即可在容器内对安装包进行操作；
+
+- **《分布式配置参考教程》中关于mapred-site.xml的配置请直接跳过，否则就会报错**
 
 - 最后参考《Apriori算法实现参考》进行Apriori算法编程实现，对指定数据集 groceries.csv 进行运算，并得出运算结果；
 
